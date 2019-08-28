@@ -3,6 +3,7 @@
 An analysis of Harold's spending habits as well as a retirement plan. 
 
 ## Budget Analysis
+--------------------------
 
 ### A summary of Harold's income:
 
@@ -11,7 +12,7 @@ Time Period | Income
 Previous Year Gross Income | $7285
 Monthly Income | $500
 Projected Gross Income | $7389
-
+-----------------------
 ### Spending Per Category:
 Category | Spending
 -------- | --------
@@ -25,7 +26,7 @@ Travel         |      $35.19
 ![Expenses per category pie chart](Images/spending_by_category.png)
 
 ### Number of Transactions Per Category:
----------------------------------
+
 
 Category | Number of Transactions
 ---------| ----------------------
@@ -38,7 +39,7 @@ Recreation     |    3
 
 ![Number of transactions per category](Images/number_of_transactions_per_category.png)
 
-## Spending by Month:
+### Spending by Month:
 Month | Amount
 ------| -------
  5 |   $3578.50
@@ -46,3 +47,7 @@ Month | Amount
  7 |   $10645.24
  8 |   $7066.74
 
+![Spending per month](Images/spending_per_month.png)
+
+## Retirement Planning
+----------------------------
