@@ -3,7 +3,7 @@
 An analysis of Harold's spending habits as well as a retirement plan. 
 
 ## Budget Analysis
---------------------------
+
 
 ### A summary of Harold's income:
 
@@ -50,4 +50,4 @@ Month | Amount
 ![Spending per month](Images/spending_per_month.png)
 
 ## Retirement Planning
-----------------------------
+
