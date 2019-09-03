@@ -67,4 +67,17 @@ The plot below shows the daily returns of the 5th, 50th, and 95th percentile.
 -----------------------------------------
 ![5th,50th,95th percentile](Images/daily_returns_5_50_95_percentiles.png)
 
+## Early Retirement
 
+Harold mentioned he might want to retire in 5 years.  In order for that to happen, Harold would need to increase his initial investment to $190,000. At the 10th percentile, I'm projecting an annual income of $7,497.50.  
+
+---------------------------------------------------
+
+The plot below shows 500 simulations of the cumulative returns in 5 years.
+
+![early retirement projected returns](Images/early_retirement_portfolio_return_trajectories.png)
+
+
+## Summary
+
+Harold's plan to retire in 5 years does not seem possible.  In order to retire in 30 years, Harold needs to invest more than $50,000 today and dramatically cut back on his expenses.
